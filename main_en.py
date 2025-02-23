@@ -164,11 +164,12 @@ class OwOBot:
 
             caps = [
                 "⚠️",
+                ":blank: |",
                 "are you a real human?",
                 "please use the link below",
                 "so i can check",
-                "please complete this within",
-                "or it may result in a ban",
+                "Please complete this within 10 minutes",
+                "or it may result in a ban!",
                 "please complete your captcha",
                 "verify that you are human",
                 "(1/5)", "(2/5)", "(3/5)", "(4/5)", "(5/5)"
